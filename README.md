@@ -1,10 +1,8 @@
 # Automated Reporting System
 
-A custom crafted reporting system built for an accounting department for the purpose of aggregating, storing, and displaying useful information about accounts with failed credit card transactions in a specified time period. Since this data was not being stored at the time, custom backend storage mechanisms were constructed.
+This analytical tool is currently used in production by an accounting department. Its purpose is to aggregate, and report on  data of various points of interest, including failed credit card transactions, account deletions, account holds etc. for over 20,000 customer accounts with the intention of improving financial business decisions.
 
-So this data could can be viewed on demand, an interface was built using some modern front-end web technologies. The data in the table is sortable on multiple columns, and dynamically updated to represent the data you are viewing.
-
-The report is made available in multiple downloadable formats.
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 Technology Summary:
 
