@@ -6,11 +6,11 @@ This analytical tool is currently used in production by an accounting department
 
 Technology Summary:
 
-PostgreSQL
-SQL
-PHP
-JavaScript (es6)
-D3.js
-HTML/CSS
-Bootstrap
-Ajax
+* PostgreSQL
+* SQL
+* PHP
+* JavaScript (es6)
+* D3.js
+* HTML/CSS
+* Bootstrap
+* Ajax
